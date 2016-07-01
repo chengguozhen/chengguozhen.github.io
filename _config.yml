@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chengguozhen.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  guozhencheng
+github_username:  chengguozhen
 permalink: /:year/:month/:day/:title/
 excerpt_separator: "\n\n\n"
 
